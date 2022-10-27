@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">05_Dashboard_Menu</string>
+    <string name="album_1">Nirvana</string>
+    <string name="fechaNirvana">07/10/2005</string>
+    <string name="titulo_1">Smells Like Teen Spirit</string>
+    <string name="result_format">Si fueras un perro, tu edad sería %d años</string>
+    <string name="you_have_to_insert_an_age">Inserta una edad válida.</string>
+    <string name="calculate">Calcular</string>
+    <string name="how_old_are_you">¿Cuántos años tienes?</string>
+    <string name="your_age">Tu edad</string>
+    <string name="alberto_ejemplo">¿Cuántos años tienes?</string>
+    <string name="MyApp">Calculator</string>
+    <string name="bienvenida">Welcome a mi APP Calculadora</string>
+    <string name="num1">Type the first number:</string>
+    <string name="num1et">number 1</string>
+    <string name="num2">Type the second number:</string>
+    <string name="num2et">number 2</string>
+    <string name="suma">ADD</string>
+    <string name="resta">SUST</string>
+    <string name="multiplicacion">MULT</string>
+    <string name="division">DIVISION</string>
+    <string name="resultadotext">The result of the operation is:</string>
+    <string name="empty">The fields cannot be empty</string>
+    <string name="cero">Yo canoot input 0</string>
+</resources>
